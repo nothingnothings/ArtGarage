@@ -21,7 +21,7 @@ To use this project, clone it using Git:
 
 ## Features
 
-- SPA (Single-Page Application) inspired webApp
+- SPA (Single-Page Application)-inspired webApp
 - Responsive design created with flexbox and media queries
 - Addition/removal of css classes ("slide-in" animation) implemented with JavaScript
 
