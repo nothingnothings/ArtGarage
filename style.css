@@ -421,11 +421,22 @@ img {
   opacity: 1;
 }
 
+@media (max-width: 376px) {
+  .about-img {
+    margin-top: 3rem;
+  }
+
+  #painting {
+    display: flex;
+    justify-content: center;
+  }
+}
 
 @media (max-width: 472px) {
-	.footer {
-		height: 4.5rem;
-	}
+  .footer {
+    height: 4.5rem;
+    margin-top: 3rem;
+  }
 }
 
 @media (max-width: 600px) {
