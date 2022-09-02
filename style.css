@@ -177,6 +177,7 @@ img {
   color: #a4a4a4;
   background: #f7f7f7;
   padding: 60px 20px;
+  text-align: center;
 }
 
 .purple {
@@ -439,11 +440,40 @@ img {
   }
 }
 
+
+
+@media (min-width: 517px) and (max-width: 578px) {
+	#painting {
+		display: flex;
+		justify-content: left;
+		margin-left: 1.5rem;
+	}
+
+}
+
 @media (max-width: 600px) {
   .newsletter-form button {
     font-size: 1.5em;
   }
 }
+
+
+@media (max-width: 696px) and (min-width: 579px ) {
+
+
+	#info {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+	}
+
+
+	#painting {
+		margin-top: 2rem;
+		display: flex;
+		justify-content: right;
+	}
+  }
 
 @media (max-width: 800px) {
   .price {
@@ -462,4 +492,12 @@ img {
   .price .price-item:first-child {
     order: 1;
   }
+}
+
+@media (max-width: 824px) {
+	.products-item {
+		display: flex;
+		flex-direction: column;
+	}
+
 }
