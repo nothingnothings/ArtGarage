@@ -24,3 +24,7 @@ To use this project, clone it using Git:
 - SPA (Single-Page Application) inspired webApp
 - Responsive design created with flexbox and media queries
 - Addition/removal of css classes ("slide-in" animation) implemented with JavaScript
+
+## Inspiration
+
+This app was based on the "CSS Flexbox" course provided by Origamid.
