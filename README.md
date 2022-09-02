@@ -22,7 +22,7 @@ To use this project, clone it using Git:
 ## Features
 
 - SPA (Single-Page Application)-inspired webApp
-- Responsive design created with Flexbox and media queries
+- Responsive design (mobile and desktop) created with Flexbox and media queries
 - Addition/removal of CSS classes ("slide-in" animation) implemented with JavaScript
 
 ## Inspiration
