@@ -105,6 +105,7 @@ img {
 
 .introduction {
   font-size: 3em;
+  cursor: default;
   line-height: 1;
   max-width: 960px;
   margin: 0 auto;
@@ -133,6 +134,7 @@ img {
 
 .about-info h1 {
   font-size: 3em;
+  cursor: default;
   margin-bottom: 0.5em;
 }
 
@@ -143,7 +145,7 @@ img {
   margin-bottom: 1em;
   margin-top: 2em;
   margin-right: 1em;
-
+  cursor: default;
   color: white;
 }
 
@@ -154,6 +156,7 @@ img {
 
 .products h1 {
   font-size: 3em;
+  cursor: default;
   margin: 0px 10px 60px 10px;
 }
 
@@ -169,6 +172,7 @@ img {
 }
 
 .products-item h2 {
+  cursor: default;
   font-size: 3em;
   color: #a4a4a4;
   background: #f7f7f7;
@@ -186,8 +190,6 @@ img {
 .blue {
   border-top: 8px solid #66d9eb;
 }
-
-/*price*/
 
 .price {
   padding: 60px;
@@ -208,6 +210,7 @@ img {
 .price-item h2 {
   font-size: 3em;
   text-align: center;
+  cursor: default;
   margin-top: 20px;
 }
 
@@ -226,6 +229,7 @@ img {
 .price-item span {
   max-width: 300px;
   margin: 20px auto;
+  cursor: default;
   display: block;
   text-align: center;
   font-weight: bold;
@@ -317,6 +321,7 @@ img {
   font-size: 2.25em;
   color: #a4a4a4;
   margin-bottom: 20px;
+  cursor: default;
 }
 
 .quality-item h2::before {
@@ -344,6 +349,7 @@ img {
   font-size: 1.25em;
   line-height: 1.4;
   color: #7c7c7c;
+  cursor: default;
 }
 
 .newsletter {
@@ -361,6 +367,7 @@ img {
 .newsletter-info h1 {
   font-size: 3em;
   color: #a4a4a4;
+  cursor: default;
 }
 
 .newsletter-info p {
@@ -424,6 +431,7 @@ img {
   text-align: center;
   font-size: 2em;
   color: white;
+  cursor: default;
 }
 
 .reveal {
