@@ -9,7 +9,7 @@ Frontend App built with vanilla HTML, CSS and Javascript. Flexbox and media quer
 Some of the Languages and Libraries employed:
 
 - HTML5
-- CSS3 (besides animations, mainly flexbox and common styles, with media queries for adjustments)
+- CSS3 (besides animations, mainly Flexbox and common styles, with media queries for adjustments)
 - Vanilla JavaScript (no JavasScript frameworks; usage of `var`, normal functions and common eventListeners)
 
 ## Setup
@@ -22,7 +22,7 @@ To use this project, clone it using Git:
 ## Features
 
 - SPA (Single-Page Application)-inspired webApp
-- Responsive design created with flexbox and media queries
+- Responsive design created with Flexbox and media queries
 - Addition/removal of css classes ("slide-in" animation) implemented with JavaScript
 
 ## Inspiration
