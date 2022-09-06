@@ -12,6 +12,28 @@ Some of the Languages and Libraries employed:
 - CSS3 (besides animations, mainly Flexbox and common styles, with media queries for adjustments)
 - Vanilla JavaScript (no JavasScript frameworks; usage of `var`, normal functions and common eventListeners)
 
+### Project Directory Structure 
+
+```
+.\
+│
+├── images\
+│   ├── ArtGarage.png
+│   ├── about1.jpg
+│   ├── about2.jpg
+│   ├── favicon.ico
+│   ├── products1.jpg
+│   ├── products2.jpg
+│   └── products3.jpg
+│
+├── scripts\
+│   └── index.js
+│
+├── README.md
+├── index.html
+└── style.css
+```
+
 ## Setup
 
 To use this project, clone it using Git:
