@@ -47,6 +47,7 @@ To use this project, clone it using Git:
 - SPA (Single-Page Application)-inspired webApp
 - Responsive design (mobile and desktop) created with Flexbox and media queries
 - Addition/removal of CSS classes ("slide-in" animation) implemented with JavaScript
+- Usage of GitHub Actions to, upon the git push command, transfer the contents of the master branch into the gh-pages branch, which then deploys it at https://nothingnothings.github.io/ArtGarage/.
 
 ## Inspiration
 
