@@ -2,7 +2,9 @@
 
 # ArtGarage
 
-Frontend App built with vanilla HTML, CSS and Javascript. Flexbox and media queries were used for the responsive design (attempting to cater to multiple device types, both desktop and mobile, with different resolutions). The webApp can be accessed [here](https://nothingnothings.github.io/ArtGarage/).
+Frontend App built with vanilla HTML, CSS and Javascript. Flexbox and media queries were used for the responsive design (attempting to cater to multiple device types, both desktop and mobile, with different resolutions). 
+
+The webApp can be accessed [here](https://nothingnothings.github.io/ArtGarage/).
 
 ## Technologies
 
@@ -47,6 +49,7 @@ To use this project, clone it using Git:
 - SPA (Single-Page Application)-inspired webApp
 - Responsive design (mobile and desktop) created with Flexbox and media queries
 - Addition/removal of CSS classes ("slide-in" animation) implemented with JavaScript
+- Usage of GitHub Actions to, upon the git push command, transfer the contents of the master branch into the gh-pages branch, which then deploys it at https://nothingnothings.github.io/ArtGarage/.
 
 ## Inspiration
 
