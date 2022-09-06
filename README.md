@@ -12,7 +12,7 @@ Some of the Languages and Libraries employed:
 - CSS3 (besides animations, mainly Flexbox and common styles, with media queries for adjustments)
 - Vanilla JavaScript (no JavasScript frameworks; usage of `var`, normal functions and common eventListeners)
 
-### Project Directory Structure 
+## Project Directory Structure 
 
 ```
 .\
