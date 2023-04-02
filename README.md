@@ -6,6 +6,10 @@ Frontend App built with vanilla HTML, CSS and Javascript. Flexbox and media quer
 
 The Webpack version of this app can be found [here](https://github.com/nothingnothings/ArtGarageWebpackVersion).
 
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/ArtGarage/master?style=flat-square)
+[![HitCount](https://hits.dwyl.com/nothingnothings/ArtGarage.svg?style=flat-square)](http://hits.dwyl.com/nothingnothings/ArtGarage)
+
+
 ## Technologies
 
 Some of the Languages and Libraries employed:
